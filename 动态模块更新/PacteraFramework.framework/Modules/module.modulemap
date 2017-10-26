@@ -1,0 +1,6 @@
+framework module PacteraFramework {
+  umbrella header "PacteraFramework.h"
+
+  export *
+  module * { export * }
+}
